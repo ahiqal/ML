@@ -1,1 +1,2 @@
-1. COVID dataset
+1. Forecasting CoViD-19 trends
+
