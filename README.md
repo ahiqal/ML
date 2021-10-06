@@ -2,12 +2,12 @@
 Machine Learning and Deep Learning 
 
 ## 1. Deep Learning
-* [Forecasting CoViD-19 trends](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/CoViD-19)
-* [Human Activity Recognition (HAR)](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/Human%20Activity%20Recognition%20(HAR))
+* [Forecasting CoViD-19 trends - LSTM, GRU, RNN](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/CoViD-19)
+* [Human Activity Recognition (HAR) - 1D CNN](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/Human%20Activity%20Recognition%20(HAR))
 
 ## 2. Text Analytics
 * [Text Emotions Dataset](https://github.com/amdhiqal/ML/tree/main/Text%20Analytics/Text%20Emotions%20Dataset)
-* [Stock News Scraping and its Sentiment](https://github.com/amdhiqal/ML/tree/main/Text%20Analytics/Stocks%20News%20Scraping%20and%20its%20Sentiment) 
+* [Stock News Scraping and its Sentiment - Transformers](https://github.com/amdhiqal/ML/tree/main/Text%20Analytics/Stocks%20News%20Scraping%20and%20its%20Sentiment) 
 
 ## 3. Python
 * [Hanoi Tower Puzzle by Recursion](https://github.com/amdhiqal/ML/blob/main/Python/1.%20Hanoi_Tower_Puzzle_(Recursion).ipynb)
