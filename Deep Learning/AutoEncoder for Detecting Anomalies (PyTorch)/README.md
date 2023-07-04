@@ -1,1 +1,1 @@
-1. AutoEncoder model for detecting anomalies (PyTorch)
+1. AutoEncoder model for detecting anomalies (PyTorch).
