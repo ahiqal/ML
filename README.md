@@ -4,6 +4,7 @@ Machine Learning and Deep Learning
 ## 1. Deep Learning
 * [Forecasting CoViD-19 trends - LSTM, GRU, RNN](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/CoViD-19)
 * [Human Activity Recognition (HAR) - 1D CNN](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/Human%20Activity%20Recognition%20(HAR))
+* [AutoEncoder for Detecting Anomalies (PyTorch)](https://github.com/amdhiqal/ML/tree/main/Deep%20Learning/AutoEncoder%20for%20Detecting%20Anomalies%20(PyTorch))
 
 ## 2. Text Analytics
 * [Text Emotions Dataset](https://github.com/amdhiqal/ML/tree/main/Text%20Analytics/Text%20Emotions%20Dataset)
