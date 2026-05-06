@@ -5,7 +5,8 @@ Machine Learning and Deep Learning
 * [Forecasting CoViD-19 trends - LSTM, GRU, RNN](https://github.com/ahiqal/ML/tree/main/Deep%20Learning/CoViD-19)
 * [Human Activity Recognition (HAR) - 1D CNN](https://github.com/ahiqal/ML/tree/main/Deep%20Learning/Human%20Activity%20Recognition%20(HAR))
 * [AutoEncoder for Detecting Anomalies (PyTorch)](https://github.com/ahiqal/ML/tree/main/Deep%20Learning/AutoEncoder%20for%20Detecting%20Anomalies%20(PyTorch))
-
+* [CWRU bearing fault diagnosis with CNN-Transformer](https://github.com/ahiqal/ML/blob/main/Deep%20Learning/CWRU%20bearing%20fault%20diagnosis%20with%20CNN-Transformer/CWRU%20bearing%20fault%20diagnosis%20with%20CNN-Transformer.ipynb)
+  
 ## 2. Text Analytics
 * [Text Emotions Dataset](https://github.com/ahiqal/ML/tree/main/Text%20Analytics/Text%20Emotions%20Dataset)
 * [Stock News Scraping and its Sentiment - Transformers](https://github.com/ahiqal/ML/tree/main/Text%20Analytics/Stocks%20News%20Scraping%20and%20its%20Sentiment) 
